@@ -63,3 +63,10 @@ Execute the Script Directly:
      ./your_script.py
 
 Ensure that python3 is in your PATH and is executable.
+
+if all this done then open a web browser and go to 
+
+    http://localhost:8000/<filename.html>
+
+This Python script is a simple way to serve static HTML files and can be a useful tool for development and testing.
+        
